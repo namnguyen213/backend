@@ -10,14 +10,12 @@
 			}
 		],
 		"license": "MIT",
-		"require": {"monolog/monolog": "1.0.*"},
+		"require": {"monolog/monolog": "1.0.*",
+					"nguyenlam0305/backend": "*"},
 		"autoload": {
 			"psr-4": {
 				"namnguyen213\\backend\\": "/"
 			}
-		},
-		"require".{
-			"nguyenlam0305/backend": "*"
 		},
 		"minimum-stability": "dev"
 	}
