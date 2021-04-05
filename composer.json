@@ -16,5 +16,8 @@
 				"namnguyen213\\backend\\": "/"
 			}
 		},
+		"require".{
+			"nguyenlam0305/backend": "*"
+		},
 		"minimum-stability": "dev"
 	}
