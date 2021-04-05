@@ -11,7 +11,9 @@
 		],
 		"license": "MIT",
 		"require": {"monolog/monolog": "1.0.*",
-					"nguyenlam0305/backend": "*"},
+					"nguyenlam0305/backend": "*",
+					"leducphuoc2001/backend": "*",
+					"lengocquy112/web2": "*"},
 		"autoload": {
 			"psr-4": {
 				"namnguyen213\\backend\\": "/"
